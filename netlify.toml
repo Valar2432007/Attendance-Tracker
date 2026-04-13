@@ -1,0 +1,8 @@
+[build]
+  command = "cd \"Attendance Tracker\" && npm run build"
+  publish = "Attendance Tracker/dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

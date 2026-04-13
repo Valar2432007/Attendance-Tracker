@@ -2,6 +2,10 @@
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Valar2432007/Attendance-Tracker.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",

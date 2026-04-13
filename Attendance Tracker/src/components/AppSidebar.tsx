@@ -64,7 +64,7 @@ export function AppSidebar({ onLogout }: AppSidebarProps) {
             <div className="flex items-center justify-center w-9 h-9 rounded-xl bg-blue-100 shrink-0">
               <GraduationCap className="w-5 h-5 text-blue-600" />
             </div>
-            {!collapsed && <span className="font-heading font-bold text-lg text-blue-800">AttendTrack</span>}
+            {!collapsed && <span className="font-heading font-bold text-lg text-blue-800">Attendance Tracker</span>}
           </div>
         </SidebarGroup>
 
